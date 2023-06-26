@@ -1,0 +1,4 @@
+com/example/search/config/RestTemplateConfig.class
+com/example/search/entity/UniversityOutInfo.class
+com/example/search/entity/StudentOutInfo.class
+com/example/search/entity/UniversityStudent.class
